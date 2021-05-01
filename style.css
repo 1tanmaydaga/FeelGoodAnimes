@@ -1,0 +1,218 @@
+*{padding: 0;
+    margin: 0;};
+
+    .background{width: 100%;
+        position: relative;
+        
+      }
+      .shape2{
+          top:78px;
+          position: absolute;
+          margin-left: 126px;
+      }
+      .shape3{
+        
+          top:19px;
+          position: absolute;
+          margin-left: 1182px;
+      }
+      .shape1{
+          top:627px;
+          position: absolute;
+      }
+      .shape4{
+          top:1124px;
+        margin-left:1107px;
+          position: absolute;
+      }
+      .shape5{
+        top:2627px;
+        position: absolute;
+      }
+      .shape6{
+        top:3124px;
+        margin-left:1107px;
+          position: absolute;
+      }
+      .content{
+          width: 1440px;
+          position:absolute;
+          top: 57px;
+          z-index: 2;
+      }
+      .hda
+      { 
+          
+          height: 105px;
+         margin-left: 3.5%;
+          width: 93%;
+          font-size: 72px;
+          font-family: 'Poppins', sans-serif;
+      border:3px solid black;
+          color:black;
+          text-align: center;
+          
+      }
+      
+      .bannera{margin-left: 3.5%;
+          width: 93%;
+          border: 3px solid black;
+          margin-top:100px;
+          height: 374px;
+          
+      }
+      .bannerb{
+          
+          width: 98%;
+          margin-left:1%;
+          margin-top: 14px;
+          height: 346px;
+      }
+      .iquote{
+          width: 55%;
+          margin-left: 22.5%;
+          margin-top: 197px;
+          text-align: center;
+          font-family:'Poppins', sans-serif; 
+          font-size: 64px;
+      }
+      .animebox{
+          margin-top: 278px;
+          display: flex;
+      }
+      .a1{border:3px solid black;
+          width:28%;
+          height: 596.4px;
+          
+          margin-left: 3.7%;
+      }
+      .a1heading
+      {
+          border:3px solid black;
+          margin-top: 44.41;
+          margin-left: 29.5px;
+          width: 339px;
+          height: 111px;
+          text-align: center;
+          font-family:'Poppins', sans-serif; 
+          font-size: 72px;
+      }
+      .a2{border:3px solid black;
+        width:28%;
+        height: 596.4px;
+        
+        margin-left: 3.7%;
+    }
+    .a3{border:3px solid black;
+        width:28%;
+        height: 596.4px;
+        
+        margin-left: 3.7%;
+    }
+      .a2heading
+      {
+        line-height: 1;
+          border:3px solid black;
+          margin-top: 44.41;
+          margin-left: 29.5px;
+          width: 339px;
+          height: 111px;
+          text-align: center;
+          font-family:'Poppins', sans-serif; 
+          font-size: 54px;
+      }
+      .a1content{
+          text-align: center;
+          margin-top: 150px;
+          font-size: 24px;
+          font-family:'Poppins', sans-serif; 
+      }
+     
+      
+      .container {
+        position: relative;
+        width: 100%;
+        max-width: 400px;
+      }
+      
+      
+      
+      .container .btn {
+        position: absolute;
+        top: 450px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        background-color:#FF6F40;;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 12px 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+        text-align: center;
+        font-family:'Poppins', sans-serif; 
+      }
+      
+      .container .btn:hover {
+        background: #f09533;
+        text-decoration: none;
+      }
+      .HaikyuuBannerout{
+          margin: auto;
+          margin-top: 100px;
+          border: solid black 3px;
+          width: 94.72%;
+          height: 664px;
+      }
+      .HaikyuuBannerin{
+          margin-top: 37px;
+          width: 95.09%;
+          margin-left:31px;
+          
+          height: 580;
+          border: solid black 3px;
+      }
+      .blog{
+          
+          width: 1120px;
+          margin-top: 130px;
+          margin-left:11.111%;
+          font-family: 'Poppins', sans-serif;
+          font-size: 36px;
+
+      }
+
+      .animequote{
+          margin-top: 100px;
+          margin-left: 288px;
+          width: 60%;
+          text-align: center;
+          font-size: 54px;
+          font-family:'Poppins', normal, sans-serif; 
+          color: 4545ff;
+          
+      }
+      .backtohome{
+
+        margin-top: 300px;
+        width: 40%;
+        text-align: center;
+        padding-top: 25px;
+          
+          height: 105px;
+         margin-left: 30%;
+        background-color:#FF6F40;;
+        color: #ffffff;
+        
+        
+        border: solid 3px black;
+       
+        font-family:'Poppins', sans-serif; 
+        font-size: 50px;
+      }
+      .backtohome:hover{
+        background: #f09533;
+        
+      }
+      
